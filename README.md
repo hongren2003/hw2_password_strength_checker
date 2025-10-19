@@ -33,7 +33,7 @@ Default password strength requirements:
 
 ### Quit/abort option
 
-If you don't wish to continue, they may enter "q", "quit", "exit" or directly "Ctrl-c" to abort immediately.
+If you don't wish to continue, you can enter "q", "quit", "exit" or directly "Ctrl-c" to abort immediately.
 
 ## How to run?
 
