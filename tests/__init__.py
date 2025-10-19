@@ -1,0 +1,1 @@
+"""Test module for password_strength_checker."""
