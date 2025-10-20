@@ -1,4 +1,4 @@
-"""Tester for test_password_checker.py"""
+"""Tester for password_checker.py"""
 
 import pytest
 from src.password_checker import (

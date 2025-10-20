@@ -1,6 +1,4 @@
-"""
-CLI compatible with password_checker.py
-"""
+"""CLI compatible with password_checker.py"""
 
 import sys
 import password_checker

@@ -1,6 +1,4 @@
-"""
-A simple password checker
-"""
+"""A simple password checker"""
 
 from typing import List, Callable, Tuple
 
